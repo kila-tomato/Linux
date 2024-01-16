@@ -3,9 +3,7 @@
 
 # Linux
 
-Learn Linux.AtCorder
-
-Log of Try AtCoder.
+Learn Linux.
 
 </samp>
 </div>
